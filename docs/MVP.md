@@ -228,9 +228,8 @@ Retail-Flow/
 |
 ├── requirements.txt
 ├── wsgi.py
-├── requirements.txt
 ├── .env
-└── README.md
+└── tests/
 
 ```
 
