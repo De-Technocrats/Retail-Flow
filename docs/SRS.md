@@ -14,6 +14,7 @@
 3. [Functional Requirements](#3-functional-requirements)
 4. [Non-Functional Requirements](#4-non-functional-requirements)
 5. [Technical Specifications](#5-technical-specifications)
+6. [Acknowledgement](#6-acknowledgement)
 
 Note: It's worth to read [MVP.md](https://github.com/De-Technocrats/Retail-Flow/blob/main/docs/MVP.md) for less technical impression. Then go for this (SRS)
 since the scope of SRS is far beyond MVP.
@@ -808,3 +809,19 @@ RetailFlow POS operates as a web-based application that can be deployed in vario
 - **pytest**: Unit and integration testing
 - **Selenium**: End-to-end testing
 - **Coverage.py**: Code coverage analysis
+
+
+---
+## 6. Acknowledgment
+
+I (Dr. Eerie Wonka) know that the SRS is incomplete (Headings # 1-5) as per the Textbooks' (or you may say industrial) creteria. It lacks some of the following normal-SRS areas: 
+User Interface Requirements
+Data Requirements
+Integration Requirements
+Testing Requirements
+Deployment & Maintenance
+Acceptance Criteria
+Appendices / Annex
+(may be much more that I dunno or can't recall right now ;0 )
+
+But what i wrote here in the above SRS doc (Heading 1-5) is meant to actually support MVP process (due to lack of time) since I hope that as the project will go public and attract more contributors, those who may ehnacement the Project and this SRS as Well. There profiles will be acknowledge here as well ;)
