@@ -6,7 +6,7 @@ Collaborators are welcome.
 
 For Complete Technical information. Read [SRS.md]()
 
-To See Plan on Mini-Viable Project (MVP: simply--Initial Alpha Public launch). Read [MVP.md]()
+To See Plan on Mini-Viable Project (MVP: simply--Initial Alpha Public launch). Read [MVP.md](https://github.com/De-Technocrats/Retail-Flow/blob/main/docs/MVP.md)
 
 
 
