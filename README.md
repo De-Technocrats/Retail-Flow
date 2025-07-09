@@ -11,7 +11,7 @@ To See Plan on Mini-Viable Project (MVP: simply--Initial Alpha Public launch). R
 
 
 ## License 
-OpenSource Under the [MIT License](https://docs.anthropic.com/en/docs/claude-code)
+OpenSource Under the [MIT License](https://github.com/De-Technocrats/Retail-Flow/tree/main?tab=MIT-1-ov-file)
 
 #### PS:
 This Readme will be written and enhance later as we will go ;) 
