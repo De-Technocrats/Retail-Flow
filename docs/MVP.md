@@ -601,8 +601,8 @@ git push origin feature/pos-transaction-engine
 ### Development Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/retailflow.git
-cd retailflow
+git clone https://github.com/De-Technocrats/Retail-Flow.git
+cd Retial-Flow
 
 # Create virtual environment
 python -m venv venv
@@ -613,7 +613,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 
 # Set up database
-createdb retailflow_dev
+createdb Retial-Flow_dev
 flask db upgrade
 
 # Install TailwindCSS
